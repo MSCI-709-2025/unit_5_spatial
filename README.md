@@ -17,7 +17,7 @@ This unit will cover map generation and the manipulation of spatial data, includ
 
 #### Homework: 
 
--  hw_7_spatial - Assigned: 4/8/2025, Due: 4/15/2025
+-  hw_7_spatial - Assigned: 4/8/2025, Due: 4/17/2025
 
 HW7 repo link: 
 
